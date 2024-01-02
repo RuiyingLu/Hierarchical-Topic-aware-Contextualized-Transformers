@@ -1,6 +1,6 @@
 # Hierarchical-Topic-aware-Contextualized-Transformers
 
-Code and dataset for the paper "Hierarchical Topic-aware Contextualized Transformers". The paper is in submitting to IEEE Transactions on Neural Networks and Learning Systems.
+Code and dataset for the paper "Hierarchical Topic-aware Contextualized Transformers". The paper is accepted by IEEE Transactions on Neural Networks and Learning Systems.
 
 ## Dependencies
 The script has been tested running under Python 3.6.6, with the following packages installed (along with their dependencies):
@@ -31,3 +31,7 @@ Note that, we provide three scripts (`trian_atten.py`, `train_embed.py`, `train_
 |
 ## Customize your own dataset
 Topic-aware Contextualized Transformers can be trained on any text datasets. 
+
+## Cite Our Paper
+Lu R, Chen B, Guo D, et al. Hierarchical Topic-Aware Contextualized Transformers[J]. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023.
+
